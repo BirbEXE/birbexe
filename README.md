@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://github-readme-stats.vercel.app/api?username=birbexe&count_private=true&show_icons=true&theme=onedark"></iframe>
+<img src="https://github-readme-stats.vercel.app/api?username=birbexe&count_private=true&show_icons=true&theme=onedark"></img>
 
 <style>
   body {
