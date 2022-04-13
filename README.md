@@ -1,22 +1,12 @@
-<!--
-**BirbEXE/birbexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://github-readme-stats.vercel.app/api?username=birbexe&count_private=true&show_icons=true&theme=onedark"></img>
 
-<style>
-  body {
-    background-image: url("https://birb.studio/assets/images/bg.gif");
-  }
-</style>
+```
+  _     _      _                   
+ | |   (_)    | |                  
+ | |__  _ _ __| |__   _____  _____ 
+ | '_ \| | '__| '_ \ / _ \ \/ / _ \
+ | |_) | | |  | |_) |  __/>  <  __/
+ |_.__/|_|_|  |_.__(_)___/_/\_\___|
+                                   
+                                   
+```
