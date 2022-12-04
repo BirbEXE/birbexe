@@ -1,14 +1,7 @@
-
-
-# <img align="left" src="https://avatars.githubusercontent.com/u/60234159" width="10%" /> Welcome.
-
-this account is a mess. expect nothing more.
+![Untitled-1](https://user-images.githubusercontent.com/60234159/205467341-42e8f0b2-29cf-4c4a-8c69-b9ffe772e4c8.png)
 
 <a href="https://discord.gg/JHSdfAzd"><img src="https://img.shields.io/discord/870040784165040139"></a>
 <a href="https://birb.studio"><img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fbirb.studio"></a>
-
-
----
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
