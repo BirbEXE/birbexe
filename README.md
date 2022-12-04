@@ -2,6 +2,8 @@
 
 <a href="https://discord.gg/JHSdfAzd"><img src="https://img.shields.io/discord/870040784165040139"></a>
 <a href="https://birb.studio"><img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fbirb.studio"></a>
+<a href="https://github.com/birbexe"><img src="https://img.shields.io/github/followers/birbexe"></a>
+<a href="https://github.com/birbexe"><img src="https://img.shields.io/github/stars/birbexe"></a>
 
 <!--START_SECTION:waka-->
 
