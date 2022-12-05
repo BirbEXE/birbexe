@@ -21,3 +21,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_DAYS_OF_WEEK: "False"
