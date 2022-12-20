@@ -23,21 +23,22 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               34 mins             █████████████████████████   99.85% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nessie                   34 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  34 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/12/2022 00:14:24 UTC
+ Last Updated on 20/12/2022 12:06:02 UTC
 <!--END_SECTION:waka-->
 
 ---
