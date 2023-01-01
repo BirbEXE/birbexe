@@ -23,21 +23,21 @@
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Ghost-CLI                1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/01/2023 00:16:24 UTC
+ Last Updated on 01/01/2023 12:05:20 UTC
 <!--END_SECTION:waka-->
 
 ---
