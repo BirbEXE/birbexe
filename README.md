@@ -22,21 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mantis                   10 mins             █████████████████░░░░░░░░   69.43 % 
-rep                      4 mins              ████████░░░░░░░░░░░░░░░░░   30.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/02/2023 00:14:38 UTC
+ Last Updated on 23/02/2023 12:05:17 UTC
 <!--END_SECTION:waka-->
 
 ---
