@@ -22,20 +22,21 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              ███████████████████████░░   92.33 % 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sketchnab                4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/03/2023 00:15:55 UTC
+ Last Updated on 27/03/2023 12:08:22 UTC
 <!--END_SECTION:waka-->
 
 ---
