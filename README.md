@@ -22,20 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-chipstead                1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/04/2023 00:16:22 UTC
+ Last Updated on 09/04/2023 12:07:06 UTC
 <!--END_SECTION:waka-->
 
 ---
