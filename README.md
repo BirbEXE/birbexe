@@ -22,21 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   98.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-booper                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/08/2023 00:12:39 UTC
+ Last Updated on 24/08/2023 12:06:27 UTC
 <!--END_SECTION:waka-->
 
 ---
