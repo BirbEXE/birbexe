@@ -22,23 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   48 mins             ████████████████░░░░░░░░░   63.07 % 
-HTML                     28 mins             █████████░░░░░░░░░░░░░░░░   36.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          54 mins             ██████████████████░░░░░░░   71.20 % 
-servo tester script      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-pi02w-servotest          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/02/2024 00:13:00 UTC
+ Last Updated on 07/02/2024 12:05:34 UTC
 <!--END_SECTION:waka-->
 
 ---
