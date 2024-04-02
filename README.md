@@ -22,20 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cansat                   59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/04/2024 00:13:42 UTC
+ Last Updated on 02/04/2024 12:06:17 UTC
 <!--END_SECTION:waka-->
 
 ---
