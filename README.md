@@ -22,21 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       ███████████████████████░░   92.94 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-birbot                   3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/07/2024 00:14:26 UTC
+ Last Updated on 06/07/2024 12:05:43 UTC
 <!--END_SECTION:waka-->
 
 ---
