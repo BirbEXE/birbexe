@@ -22,20 +22,20 @@
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-MDX                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-docs                     3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/07/2024 12:06:45 UTC
+ Last Updated on 19/07/2024 12:06:28 UTC
 <!--END_SECTION:waka-->
 
 ---
