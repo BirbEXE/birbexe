@@ -6,36 +6,8 @@
 <a href="https://github.com/birbexe"><img src="https://img.shields.io/github/stars/birbexe"></a>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                60 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌆 Daytime                58 commits          ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌃 Evening                84 commits          █████████░░░░░░░░░░░░░░░░   37.33 % 
-🌙 Night                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 09/01/2025 12:07:42 UTC
+ Last Updated on 10/01/2025 00:18:23 UTC
 <!--END_SECTION:waka-->
 
 ---
