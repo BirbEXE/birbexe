@@ -5,7 +5,7 @@
 <a href="https://github.com/birbexe"><img src="https://img.shields.io/github/stars/birbexe"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -17,7 +17,7 @@ VS Code                  2 hrs 35 mins       ███████████�
 ```
 
 
- Last Updated on 04/11/2025 18:50:15 UTC
+ Last Updated on 05/11/2025 00:20:20 UTC
 <!--END_SECTION:waka-->
 
 ---
