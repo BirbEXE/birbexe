@@ -5,7 +5,7 @@
 <a href="https://github.com/birbexe"><img src="https://img.shields.io/github/stars/birbexe"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -13,11 +13,11 @@
 🕑︎ Time Zone: Europe/London
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/11/2025 00:19:50 UTC
+ Last Updated on 06/11/2025 12:07:51 UTC
 <!--END_SECTION:waka-->
 
 ---
